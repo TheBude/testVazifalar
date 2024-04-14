@@ -1,4 +1,5 @@
-﻿int[] myArray  = {15, 60, 10, 23, 20};
+﻿//massivlar
+int[] myArray  = {15, 60, 10, 23, 20};
 
 int minVal = myArray[0];
 int maxVal = myArray[0];
